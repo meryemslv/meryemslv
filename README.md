@@ -67,20 +67,6 @@ A game development project built with **Unity and C#**, focusing on game mechani
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=meryemslv&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryemslv&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=meryemslv&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
