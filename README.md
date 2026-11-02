@@ -17,7 +17,8 @@
 
 Hi! I'm **Meryem Selvi**, a recent graduate passionate about software development and technology.
 
-I have hands-on experience in Backend Development, Web Development, Database Management, and Game Development.
+I have hands-on experience in **Backend Development, Web Development, Database Management, and Game Development**.
+
 I enjoy building projects, exploring different technologies, solving problems, and transforming ideas into functional applications.
 
 - ⚙️ Interested in **Backend Development**
@@ -61,8 +62,22 @@ A web-based tailor marketplace developed using React and JavaScript, with a Node
 ### 🗄️ NovaStoreDB
 A database project focused on database design and SQL queries.
 
-### 🎮 GOÇ
-A game development project built with Unity and C#, exploring game mechanics, interactive gameplay, and development techniques.
+### 🎮 GOC
+A game development project built with **Unity and C#**, focusing on game mechanics, interactive gameplay, and player experience.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=meryemslv&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meryemslv&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=meryemslv&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
@@ -70,7 +85,7 @@ A game development project built with Unity and C#, exploring game mechanics, in
 
 <div align="center">
 
-<a href="https://github.com/meryemselvi">
+<a href="https://github.com/meryemslv">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
